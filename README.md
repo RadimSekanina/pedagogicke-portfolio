@@ -1,5 +1,11 @@
-Pedagogické portfolio
-Magisterské studium
-Bc. Sekanina Radim (D260918)
-Katedra technické a informační výchovy
-Pedagogická fakulta, UPOL
+# Pedagogické portfolio
+
+## Magisterské studium
+
+**Jméno:** Tvoje jméno a příjmení
+
+**Osobní číslo:** D260918
+
+**Katedra:** Katedra technické a informační výchovy
+
+**Fakulta:** Pedagogická fakulta UPOL
