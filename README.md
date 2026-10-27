@@ -2,7 +2,7 @@
 
 ## Magisterské studium
 
-**Jméno:** Tvoje jméno a příjmení
+**Jméno:** Bc. Radim Sekanina
 
 **Osobní číslo:** D260918
 
