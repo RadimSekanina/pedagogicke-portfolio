@@ -1,6 +1,6 @@
 # Pedagogické portfolio
 
-## Magisterské studium
+**Magisterské studium**
 
 **Jméno:** Bc. Radim Sekanina
 
